@@ -1,0 +1,1 @@
+export const intialdata = ['Indore','Bhopal','Ujjain'];
